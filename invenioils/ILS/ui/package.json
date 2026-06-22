@@ -6,7 +6,7 @@
     "@inveniosoftware/react-invenio-app-ils": "^1.0.0-alpha.72",
     "@rjsf/core": "^2.5.0",
     "@rjsf/semantic-ui": "^2.5.0",
-    "axios": "^0.21.0",
+    "axios": "^1.18.0",
     "follow-redirects": "^1.14.7",
     "formik": "^2.2.6",
     "less": "^3.13.1",
